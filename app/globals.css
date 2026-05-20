@@ -49,7 +49,7 @@
 
 :root {
     /* Modern dark theme - Inspired by sleek developer portfolios */
-    --background: oklch(0.12 0.01 250);
+    --background: oklch(41.371% 0.11294 270.687);
     --foreground: oklch(0.95 0 0);
     --card: oklch(0.16 0.01 250);
     --card-foreground: oklch(0.95 0 0);
